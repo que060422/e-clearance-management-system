@@ -7,7 +7,7 @@ A web-based clearance management system developed as an undergraduate thesis to 
 ## 🌐 Live Demo
 
 https://thesis.66ghz.com
-
+https://e-clearance-management-system.vercel.app/
 # 🔑 Demo Accounts
 
 | Role | Username | Password |
