@@ -8,6 +8,18 @@ A web-based clearance management system developed as an undergraduate thesis to 
 
 https://thesis.66ghz.com
 
+# 🔑 Demo Accounts
+
+| Role | Username | Password |
+|------|----------|----------|
+| Administrator | admin | admin123 |
+| Department Head | depthead | dept123 |
+| Clearing Officer | officer | officer123 |
+| Student | 2022-0001 | student123 |
+
+> **Note:** These are demo accounts provided for evaluation purposes only.
+
+
 ## 📌 Case Study
 
 This repository includes the complete Business Systems Analysis documentation, including:
