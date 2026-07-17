@@ -10,12 +10,12 @@ https://thesis.66ghz.com
 https://e-clearance-management-system.vercel.app/
 # 🔑 Demo Accounts
 
-| Role | Username | Password |
+| Role | Email | Password |
 |------|----------|----------|
-| Administrator | admin | admin123 |
-| Department Head | depthead | dept123 |
-| Clearing Officer | officer | officer123 |
-| Student | 2022-0001 | student123 |
+| Administrator | e-clearancemanagementsystem@gmail.com | admin |
+| Department Head | deptbscs.scc@gmail.com | department|
+| Clearing Officer | osasscc@gmail.com | officer |
+| Student | student1@gmail.com | student1 |
 
 > **Note:** These are demo accounts provided for evaluation purposes only.
 
