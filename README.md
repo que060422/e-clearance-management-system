@@ -1,8 +1,9 @@
 # E-Clearance Management System
 
-Business Systems Analysis & Full-Stack Web Development Case Study
+System Analysis & Full-Stack Web Development Project
 
-A web-based clearance management system developed as an undergraduate thesis to digitize and streamline the student clearance process.
+A web-based clearance management system developed as an undergraduate thesis
+to digitize and streamline the student clearance process.
 
 ## 🌐 Live Demo
 
@@ -19,10 +20,11 @@ https://e-clearance-management-system.vercel.app/
 
 > **Note:** These are demo accounts provided for evaluation purposes only.
 
+## 📌 Project Details
 
-## 📌 Case Study
-
-This repository includes the complete Business Systems Analysis documentation, including:
+This repository includes the system documentation and development work,
+covering the analysis, design, and implementation of the clearance management
+system.
 
 - Business Problem
 - Project Objectives
@@ -39,3 +41,4 @@ This repository includes the complete Business Systems Analysis documentation, i
 - HTML
 - CSS
 - JavaScript
+
