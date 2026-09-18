@@ -1,9 +1,10 @@
+
 # E-Clearance Management System
 
 System Analysis & Full-Stack Web Development Project
 
-A web-based clearance management system developed as an undergraduate thesis
-to digitize and streamline the student clearance process.
+A web-based clearance management system developed to digitize and streamline
+the student clearance process.
 
 ## 🌐 Live Demo
 
